@@ -2,4 +2,4 @@ if you want the application version enter https://github.com/babo333/BMB-3.0-PyQ
 
 if you want the PyQt5 version enter (Coming soon)
 
-if you want the Pro version enter (Coming soon)
+if you want the Pro version enter https://github.com/babo333/BMB-3.0-pro-web-browser
